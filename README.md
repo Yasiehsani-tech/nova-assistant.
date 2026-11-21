@@ -1,0 +1,2 @@
+# nova-assistant.
+ai reminder
